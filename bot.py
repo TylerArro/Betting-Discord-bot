@@ -204,4 +204,4 @@ async def on_message(message):
 				await message.channel.send("Invalid Command use !help")
  
 
-bot.run("OTA5ODk4NjMxODY2MzUxNjg4.YZK_Ig.hH30IA_TCBkzqGuimqIaddPDkGM")
+bot.run("TOKEN HERE")
